@@ -1,0 +1,20 @@
+{
+  "name": "gretch",
+  "description": "Gretchen CLI.  Making fetch happen in the shell.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/humblesoftware/gretch",
+  "author": {
+    "name": "Carl Sutherland",
+    "email": "carl@humblesoftware.com",
+    "url": "http://humblesoftware.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/humblesoftware/gretch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/humblesoftware/gretch/issues"
+  },
+  "dependencies": {
+  }
+}
